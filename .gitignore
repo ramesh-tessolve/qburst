@@ -1,0 +1,4 @@
+tools/
+tmp_*
+pattern_queue/
+.cron_checkin.lock

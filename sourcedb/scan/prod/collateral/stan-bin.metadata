@@ -1,0 +1,9 @@
+{
+  "has_pdl": false,
+  "module": "scan",
+  "pattern": "stan-bin",
+  "source": "/home/ramesh/source-files",
+  "timestamp": "2026-02-06T09:55:32Z",
+  "type": "prod",
+  "user": "ramesh"
+}
